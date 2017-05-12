@@ -15,13 +15,13 @@ p{
 h1{
 	font-weight: bold;
 	font-size: xx-large;
-	color: darkgray;
+	color: #FE2E64;
 }
 
 h2{
 	font-size: x-large;
-	color: gray;
-	background-color: beige;
+	color: #08088A;
+	background-color: #A9BCF5;
 }
 
 h3{
@@ -35,5 +35,5 @@ a:visited { color: blue;}
 a:active { color: blue;}
 a:hover { color: red;}
 
-dl.rireki { color: white; background-color: #044; }
-dl.license { color: white; background-color: #404; }
+dl.rireki { color: black; background-color: #00FFBF; }
+dl.license { color: black; background-color: #A9E2F3; }

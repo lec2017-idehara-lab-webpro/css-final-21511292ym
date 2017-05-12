@@ -1,12 +1,14 @@
 body{
-	text-align: center;
+	text-align: left;
+    background-color: #CEE3F6;
 }
 
 h1{
 	text-align: justify;
 	font-weight: bold;
-	font-size: large;
+	font-size: 40px;
 	color: crimson;
+   
 }
 
 h2{
